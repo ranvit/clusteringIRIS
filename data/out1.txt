@@ -1,0 +1,48 @@
+1. k: 3, max iter: 5, SS_total: 77.9198903509
+2. k: 3, max iter: 5, SS_total: 78.5720487265
+3. k: 3, max iter: 5, SS_total: 77.9198903509
+4. k: 3, max iter: 5, SS_total: 142.103741289
+
+1. k: 3, max iter: 10, SS_total: 77.9198903509
+2. k: 3, max iter: 10, SS_total: 142.103741289
+3. k: 3, max iter: 10, SS_total: 77.9198903509
+4. k: 3, max iter: 10, SS_total: 142.187677109
+
+1. k: 3, max iter: 20, SS_total: 77.9198903509
+2. k: 3, max iter: 20, SS_total: 77.9212628205
+3. k: 3, max iter: 20, SS_total: 77.9198903509
+4. k: 3, max iter: 20, SS_total: 77.9198903509
+
+-------------------------------------------------
+1. k: 4, max iter: 5, SS_total: 56.6423706502
+2. k: 4, max iter: 5, SS_total: 70.4844472292
+3. k: 4, max iter: 5, SS_total: 61.1900189996
+4. k: 4, max iter: 5, SS_total: 56.7348860616
+
+1. k: 4, max iter: 10, SS_total: 70.4844472292
+2. k: 4, max iter: 10, SS_total: 56.6423706502
+3. k: 4, max iter: 10, SS_total: 56.6423706502
+4. k: 4, max iter: 10, SS_total: 56.8511992754
+
+1. k: 4, max iter: 20, SS_total: 56.6423706502
+2. k: 4, max iter: 20, SS_total: 70.4844472292
+3. k: 4, max iter: 20, SS_total: 56.8106625259
+4. k: 4, max iter: 20, SS_total: 56.8511992754
+
+-------------------------------------------------
+1. k: 5, max iter: 5, SS_total: 51.68396668
+2. k: 5, max iter: 5, SS_total: 49.6201629389
+3. k: 5, max iter: 5, SS_total: 52.369265233
+4. k: 5, max iter: 5, SS_total: 112.180343137
+
+1. k: 5, max iter: 10, SS_total: 70.6597179144
+2. k: 5, max iter: 10, SS_total: 49.2069275285
+3. k: 5, max iter: 10, SS_total: 49.4520689655
+4. k: 5, max iter: 10, SS_total: 49.2069275285
+
+1. k: 5, max iter: 20, SS_total: 68.3375254468
+2. k: 5, max iter: 20, SS_total: 69.1027552448
+3. k: 5, max iter: 20, SS_total: 49.2069275285
+4. k: 5, max iter: 20, SS_total: 53.0142708333
+
+-------------------------------------------------

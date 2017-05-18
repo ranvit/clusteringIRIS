@@ -1,0 +1,53 @@
+77.9198903509
+{'Iris-virginica': 36, 'Iris-versicolor': 2}
+{'Iris-setosa': 48}
+{'Iris-virginica': 13, 'Iris-versicolor': 48}
+
+77.9198903509
+{'Iris-virginica': 36, 'Iris-versicolor': 2}
+{'Iris-setosa': 48}
+{'Iris-virginica': 13, 'Iris-versicolor': 48}
+
+77.9198903509
+{'Iris-virginica': 36, 'Iris-versicolor': 2}
+{'Iris-setosa': 48}
+{'Iris-virginica': 13, 'Iris-versicolor': 48}
+
+56.6423706502
+{'Iris-virginica': 16, 'Iris-versicolor': 23}
+{'Iris-setosa': 48}
+{'Iris-virginica': 32}
+{'Iris-virginica': 1, 'Iris-versicolor': 27}
+
+56.6423706502
+{'Iris-virginica': 16, 'Iris-versicolor': 23}
+{'Iris-setosa': 48}
+{'Iris-virginica': 32}
+{'Iris-virginica': 1, 'Iris-versicolor': 27}
+
+56.6423706502
+{'Iris-virginica': 16, 'Iris-versicolor': 23}
+{'Iris-setosa': 48}
+{'Iris-virginica': 32}
+{'Iris-virginica': 1, 'Iris-versicolor': 27}
+
+49.6201629389
+{'Iris-virginica': 15, 'Iris-versicolor': 27}
+{'Iris-virginica': 33}
+{'Iris-virginica': 1, 'Iris-versicolor': 23}
+{'Iris-setosa': 21}
+{'Iris-setosa': 27}
+
+49.2069275285
+{'Iris-virginica': 16, 'Iris-versicolor': 23}
+{'Iris-virginica': 32}
+{'Iris-virginica': 1, 'Iris-versicolor': 27}
+{'Iris-setosa': 27}
+{'Iris-setosa': 21}
+
+49.2069275285
+{'Iris-virginica': 16, 'Iris-versicolor': 23}
+{'Iris-virginica': 32}
+{'Iris-virginica': 1, 'Iris-versicolor': 27}
+{'Iris-setosa': 27}
+{'Iris-setosa': 21}

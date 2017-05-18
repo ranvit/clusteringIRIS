@@ -1,0 +1,9 @@
+My code and the iris data set are in the <code> directory. The code needs to be executed from this directory.
+
+The executable is <k3.py> and can be run with:
+<python2.6 k3.py>
+
+Within the main section of the code you can run functions from <demo1>--<demo5> which evaluate different parts of this assignment.
+
+The output from running my program is in the <data> directory.
+And my graphs are stored as PNGs in the <graphs> directory.
